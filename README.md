@@ -1,2 +1,2 @@
 # kaiwaproject
-‚±‚ñ‚É‚¿‚Í
+ã“ã‚“ã«ã¡ã¯
