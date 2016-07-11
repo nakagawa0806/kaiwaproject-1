@@ -7,12 +7,12 @@ public class kaiwa {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
 		
-		System.out.println("[¡“ú‚Ì’²q‚Í‚Ç‚¤‚Å‚·‚©H]");
-		System.out.println("1:‚¢‚Â‚à‚Ç‚¤‚èB");
-		System.out.println("2:âD’²"); 
-		System.out.println("3:‘Ì’²‚ªˆ«‚¢");
-		System.out.println("4:ƒ`ƒ‡ƒxƒŠƒO‚Å‚·B");
-		System.out.print("‘I‘ğF"); int n = stdIn.nextInt();
+		System.out.println("[$B:#F|$ND4;R$O$I$&$G$9$+!)(B]");
+		System.out.println("1:$B$$$D$b$I$&$j!#(B");
+		System.out.println("2:$B@d9%D4(B"); 
+		System.out.println("3:$BBND4$,0-$$(B");
+		System.out.println("4:$B%A%g%Y%j%0$G$9!#(B");
+		System.out.print("$BA*Br!'(B"); int n = stdIn.nextInt();
 		 
 		
 	switch (n) {
@@ -26,26 +26,54 @@ public class kaiwa {
 		System.out.println("1:");
 		System.out.println("2:"); 
 		System.out.println("3:");
-		System.out.print("‘I‘ğF"); int x = stdIn.nextInt();
+		System.out.print("$BA*Br!'(B"); int x = stdIn.nextInt();
+	}
+		switch (x) {
+	case 1:System.out.println("1"); break;
+	case 2:System.out.println("2"); break;
+	case 3:System.out.println("3"); break;
+	case 4:System.out.println("4"); break;
+	}
 	}else if(n == 2) {
 		System.out.println("[]");
 		System.out.println("1:");
 		System.out.println("2:"); 
 		System.out.println("3:");
-		System.out.print("‘I‘ğF"); int x = stdIn.nextInt();
+		System.out.print("$BA*Br!'(B"); int x = stdIn.nextInt();
+	}
+		switch (x) {
+	case 1:System.out.println("1"); break;
+	case 2:System.out.println("2"); break;
+	case 3:System.out.println("3"); break;
+	case 4:System.out.println("4"); break;
+	}
 	}else if(n == 3) {
 		System.out.println("[]");
 		System.out.println("1:");
 		System.out.println("2:"); 
 		System.out.println("3:");
-		System.out.print("‘I‘ğF"); int x = stdIn.nextInt();
+		System.out.print("$BA*Br!'(B"); int x = stdIn.nextInt();
+	}
+		switch (x) {
+	case 1:System.out.println("1"); break;
+	case 2:System.out.println("2"); break;
+	case 3:System.out.println("3"); break;
+	case 4:System.out.println("4"); break;
+	}
 	
 	}else if(n == 4) {
 		System.out.println("[]");
 		System.out.println("1:");
 		System.out.println("2:"); 
 		System.out.println("3:");
-		System.out.print("‘I‘ğF"); int x = stdIn.nextInt();
+		System.out.print("$BA*Br!'(B"); int x = stdIn.nextInt();
 	}
+		switch (x) {
+	case 1:System.out.println("1"); break;
+	case 2:System.out.println("2"); break;
+	case 3:System.out.println("3"); break;
+	case 4:System.out.println("4"); break;
+	}
+	
 }
 }
